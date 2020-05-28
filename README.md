@@ -16,3 +16,6 @@ com.husor.beibei 贝贝 9.39.0
 com.ygkj.chelaile.standard 车来了 3.91.0
 
 com.cubic.autohome 汽车之家 10.7.0
+
+com.xiachufang 下厨房 7.4.0
+
