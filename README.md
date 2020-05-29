@@ -19,3 +19,5 @@ com.cubic.autohome 汽车之家 10.7.0
 
 com.xiachufang 下厨房 7.4.0
 
+com.rytong.hnair 海南航空 8.1.1
+
