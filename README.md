@@ -28,3 +28,5 @@ com.xiachufang 下厨房 7.4.0
 com.rytong.hnair 海南航空 8.1.1
 
 com.greentree.android 格林酒店 5.22.3
+
+com.sharetwo.goods 只二 5.4.7
