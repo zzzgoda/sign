@@ -30,3 +30,5 @@ com.rytong.hnair 海南航空 8.1.1
 com.greentree.android 格林酒店 5.22.3
 
 com.sharetwo.goods 只二 5.4.7
+
+com.android.benlailife.activity 本来生活 5.7.1
