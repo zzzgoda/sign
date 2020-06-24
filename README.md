@@ -13,6 +13,8 @@
 
 ## app list
 
+| package | display | version |
+| --- | --- | --- |
 | com.ganji.android.haoche_c | 瓜子二手车 | 7.2.6.0 |
 | com.lianjia.beike | 贝壳找房 | 2.31.0 |
 | com.douban.frodo | 豆瓣 | 6.34.0 |
