@@ -27,3 +27,4 @@
 | com.sharetwo.goods | 只二 | 5.4.7 |
 | com.android.benlailife.activity | 本来生活 | 5.7.1 |
 | com.hupu.games | 虎扑 | 7.5.10 |
+| com.moji.mjweather | 墨迹天气 | 8.0206.02 |
