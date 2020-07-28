@@ -31,4 +31,4 @@
 | com.hupu.games | 虎扑 | 7.5.10 |
 | com.moji.mjweather | 墨迹天气 | 8.0206.02 |
 | com.ttxg.fruitday | 天天果园 | 7.9.0 |
-
+| com.jiaoyinbrother.monkeyking | 悟空租车 | 5.3.9 |
