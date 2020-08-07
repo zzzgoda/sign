@@ -32,5 +32,5 @@
 | com.moji.mjweather | 墨迹天气 | 8.0206.02 |
 | com.ttxg.fruitday | 天天果园 | 7.9.0 |
 | com.jiaoyinbrother.monkeyking | 悟空租车 | 5.3.9 |
-| com.hpbr.bosszhipin | BOSS直聘 | 8.060
-
+| com.hpbr.bosszhipin | BOSS直聘 | 8.060 |
+| com.jianzhiman.customer | 兼职侠 | 1.5.3 |
