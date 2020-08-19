@@ -35,3 +35,4 @@
 | com.hpbr.bosszhipin | BOSS直聘 | 8.060 |
 | com.jianzhiman.customer | 兼职侠 | 1.5.3 |
 | com.jianshu.haruki | 简书 | 4.24.1 |
+| com.dongqiudi.news | 懂球帝 | 7.3.6 |
