@@ -36,3 +36,4 @@
 | com.jianzhiman.customer | 兼职侠 | 1.5.3 |
 | com.jianshu.haruki | 简书 | 4.24.1 |
 | com.dongqiudi.news | 懂球帝 | 7.3.6 |
+| com.guazi.newcar | 毛豆新车 | 3.2.7.0 |
