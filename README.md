@@ -38,3 +38,4 @@
 | com.dongqiudi.news | 懂球帝 | 7.3.6 |
 | com.guazi.newcar | 毛豆新车 | 3.2.7.0 |
 | com.reocar.reocar | 瑞卡租车 | 3.5.4 |
+| com.czb.chezhubang | 团油 | 5.4.4 |
