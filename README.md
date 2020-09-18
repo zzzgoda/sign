@@ -11,6 +11,7 @@
 
 | Author | darbra |
 | --- | --- |
+| Wechat | darbra24 |
 | Email | darbra@126.com |
 
 ## app list
@@ -39,3 +40,4 @@
 | com.guazi.newcar | 毛豆新车 | 3.2.7.0 |
 | com.reocar.reocar | 瑞卡租车 | 3.5.4 |
 | com.czb.chezhubang | 团油 | 5.4.4 |
+| com.wonderfull.mobileshop | 豌豆公主 | 5.30.1 |
