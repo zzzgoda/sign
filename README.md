@@ -41,3 +41,4 @@
 | com.reocar.reocar | 瑞卡租车 | 3.5.4 |
 | com.czb.chezhubang | 团油 | 5.4.4 |
 | com.wonderfull.mobileshop | 豌豆公主 | 5.30.1 |
+| com.lalamove.huolala.client | 货拉拉 | 6.4.64 |
