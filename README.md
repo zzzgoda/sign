@@ -42,3 +42,4 @@
 | com.czb.chezhubang | 团油 | 5.4.4 |
 | com.wonderfull.mobileshop | 豌豆公主 | 5.30.1 |
 | com.lalamove.huolala.client | 货拉拉 | 6.4.64 |
+| com.babytree.apps.pregnancy | 宝宝树孕育 | 8.31.0 |
