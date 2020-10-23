@@ -11,7 +11,6 @@
 
 | Author | darbra |
 | --- | --- |
-| Wechat | darbra24 |
 | Email | darbra@126.com |
 
 ## app list
@@ -44,3 +43,4 @@
 | com.lalamove.huolala.client | 货拉拉 | 6.4.64 |
 | com.babytree.apps.pregnancy | 宝宝树孕育 | 8.31.0 |
 | com.jiuwu | 95分 | 1.2.9 |
+| com.chinaedu.blessonstu | 101辅导 | 1.8.5 |
