@@ -44,3 +44,4 @@
 | com.babytree.apps.pregnancy | 宝宝树孕育 | 8.31.0 |
 | com.jiuwu | 95分 | 1.2.9 |
 | com.chinaedu.blessonstu | 101辅导 | 1.8.5 |
+| com.dealmoon.android | 北美省钱快报 | 10.6.8_05 |
