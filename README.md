@@ -48,3 +48,4 @@
 | sina.mobile.tianqitong | 天气通 | 6.40 |
 | com.cehome.cehomebbs | 铁甲 | 3.9.9.0 |
 | com.qts.customer | 青团社兼职 | 4.46.2 |
+| com.dfss.dfssclub | 东方时尚 | 3.0.1 |
