@@ -1,6 +1,6 @@
 app:
 com.hpbr.bosszhipin
-BOSS直聘
+BOSS直聘 sig参数
 8.060
 
 关键java类:

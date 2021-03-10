@@ -1,6 +1,6 @@
 app:
 com.lianjia.beike
-贝壳找房
+贝壳找房 Authorization参数
 2.31.0
 
 关键java类:
