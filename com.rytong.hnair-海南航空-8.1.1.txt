@@ -1,6 +1,6 @@
 app:
 com.rytong.hnair
-海南航空
+海南航空 hnairSign参数
 8.1.1
 
 关键java类:

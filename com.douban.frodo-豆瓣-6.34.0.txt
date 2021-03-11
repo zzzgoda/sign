@@ -1,6 +1,6 @@
 app:
 com.douban.frodo
-豆瓣
+豆瓣 _sig参数
 6.34.0
 
 关键java类:
