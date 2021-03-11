@@ -50,3 +50,4 @@
 | com.cehome.cehomebbs | 铁甲 | 3.9.9.0 |
 | com.qts.customer | 青团社兼职 | 4.46.2 |
 | com.dfss.dfssclub | 东方时尚 | 3.0.1 |
+| com.lucky.luckyclient | 瑞幸咖啡 | 4.4.0 |
